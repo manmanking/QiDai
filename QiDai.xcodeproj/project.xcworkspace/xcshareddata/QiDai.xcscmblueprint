@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0b03a5ab-3c5c-409b-9599-d2a27fd779e0++443",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "0b03a5ab-3c5c-409b-9599-d2a27fd779e0++443" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0b03a5ab-3c5c-409b-9599-d2a27fd779e0++443" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "24AE01A1-B89B-4346-B9EF-20D3F0255AC7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0b03a5ab-3c5c-409b-9599-d2a27fd779e0++443" : "QiDai_1.4.0\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "QiDai",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "QiDai.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/101.201.120.189",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0b03a5ab-3c5c-409b-9599-d2a27fd779e0++443"
+    }
+  ]
+}
